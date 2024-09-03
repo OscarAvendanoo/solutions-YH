@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar\\solutions-YH\\menuSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87C7CF88-BF49-411B-A983-11B9F32ED7A8}|menuSystem\\menuSystem.csproj|c:\\users\\oscar\\solutions-yh\\menusystem\\menusystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C7CF88-BF49-411B-A983-11B9F32ED7A8}|menuSystem\\menuSystem.csproj|solutionrelative:menusystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\solutions-YH\\menuSystem\\menuSystem\\Program.cs",
+              "RelativeDocumentMoniker": "menuSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Oscar\\solutions-YH\\menuSystem\\menuSystem\\Program.cs",
+              "RelativeToolTip": "menuSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:57:15.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
