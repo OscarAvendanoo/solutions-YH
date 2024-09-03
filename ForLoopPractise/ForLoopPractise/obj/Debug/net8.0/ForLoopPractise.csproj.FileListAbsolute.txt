@@ -1,0 +1,14 @@
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\bin\Debug\net8.0\ForLoopPractise.exe
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\bin\Debug\net8.0\ForLoopPractise.deps.json
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\bin\Debug\net8.0\ForLoopPractise.runtimeconfig.json
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\bin\Debug\net8.0\ForLoopPractise.dll
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\bin\Debug\net8.0\ForLoopPractise.pdb
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\obj\Debug\net8.0\ForLoopPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\obj\Debug\net8.0\ForLoopPractise.AssemblyInfoInputs.cache
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\obj\Debug\net8.0\ForLoopPractise.AssemblyInfo.cs
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\obj\Debug\net8.0\ForLoopPractise.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\obj\Debug\net8.0\ForLoopPractise.dll
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\obj\Debug\net8.0\refint\ForLoopPractise.dll
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\obj\Debug\net8.0\ForLoopPractise.pdb
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\obj\Debug\net8.0\ForLoopPractise.genruntimeconfig.cache
+C:\Users\Oscar\uppgifterYH\ForLoopPractise\ForLoopPractise\obj\Debug\net8.0\ref\ForLoopPractise.dll
