@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oscar\\uppgifterYH\\ForLoopPractise\\ForLoopPractise\\ForLoopPractise.csproj",
+      "projectUniqueName": "C:\\Users\\Oscar\\solutions-YH\\ForLoopPractiseAplications\\NumbersInBetween\\ForLoopPractise\\ForLoopPractise.csproj",
       "projectName": "ForLoopPractise",
-      "projectPath": "C:\\Users\\Oscar\\uppgifterYH\\ForLoopPractise\\ForLoopPractise\\ForLoopPractise.csproj",
+      "projectPath": "C:\\Users\\Oscar\\solutions-YH\\ForLoopPractiseAplications\\NumbersInBetween\\ForLoopPractise\\ForLoopPractise.csproj",
       "packagesPath": "C:\\Users\\Oscar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oscar\\uppgifterYH\\ForLoopPractise\\ForLoopPractise\\obj\\",
+      "outputPath": "C:\\Users\\Oscar\\solutions-YH\\ForLoopPractiseAplications\\NumbersInBetween\\ForLoopPractise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
