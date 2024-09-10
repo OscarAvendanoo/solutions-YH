@@ -1,0 +1,15 @@
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\bin\Debug\net8.0\BankAccountingSystem.exe
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\bin\Debug\net8.0\BankAccountingSystem.deps.json
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\bin\Debug\net8.0\BankAccountingSystem.runtimeconfig.json
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\bin\Debug\net8.0\BankAccountingSystem.dll
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\bin\Debug\net8.0\BankAccountingSystem.pdb
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\obj\Debug\net8.0\BankAccountingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\obj\Debug\net8.0\BankAccountingSystem.AssemblyInfoInputs.cache
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\obj\Debug\net8.0\BankAccountingSystem.AssemblyInfo.cs
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\obj\Debug\net8.0\BankAccountingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\obj\Debug\net8.0\BankAccountingSystem.sourcelink.json
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\obj\Debug\net8.0\BankAccountingSystem.dll
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\obj\Debug\net8.0\refint\BankAccountingSystem.dll
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\obj\Debug\net8.0\BankAccountingSystem.pdb
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\obj\Debug\net8.0\BankAccountingSystem.genruntimeconfig.cache
+C:\Users\Oscar\uppgifterYH\solutions-YH\BankAccountingSystem\BankAccountingSystem\obj\Debug\net8.0\ref\BankAccountingSystem.dll
