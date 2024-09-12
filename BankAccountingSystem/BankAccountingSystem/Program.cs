@@ -150,7 +150,8 @@ namespace BankAccountingSystem
                                     foreach (Account account2 in accounts)
                                     {
                                         if (transactionTo == account.AccountNumber)
-                                        {
+                                        {  // ????
+                                            sendMoney(account);
                                           // call transaction method, probably needs to be implemented in the Account class also. 
                                         }
                                     }
